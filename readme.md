@@ -1,6 +1,8 @@
 MTModular Force of Waves (FoW) schematic and circuit
 ====================================================
 
+![board image](https://github.com/mesotokyo/fow/raw/master/figures/brd.png "board image")
+
 ## about:
 
 Force of Waves (FoW) is a "envelope follower" module for DOEPFER A-100 style system.
