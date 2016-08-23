@@ -1,0 +1,62 @@
+Partlist exported from /Users/hylom/Documents/eagle/EF01/ef01.sch at 2016/08/24 1:15
+
+Part Value        Device          Package      Description                                   MF MPN OC_FARNELL OC_NEWARK
+C1   22u          CPOL-USE2.5-5   E2,5-5       POLARIZED CAPACITOR, American symbol                                     
+C2   22u          CPOL-USE2.5-5   E2,5-5       POLARIZED CAPACITOR, American symbol                                     
+C3   0.1u         C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                               
+C4   0.1u         C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                               
+C5   0.1u         C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                               
+C6   0.1u         C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                               
+C7   4.7u         C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                               
+C8   200n         C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                               
+C9   33p          C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                               
+C10  10u          C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                               
+C11  0.1u         C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                               
+D1   1N4148DO35-7 1N4148DO35-7    DO35-7       DIODE                                                                    
+D2   1N4148DO35-7 1N4148DO35-7    DO35-7       DIODE                                                                    
+D3   1N4148DO35-7 1N4148DO35-7    DO35-7       DIODE                                                                    
+D4   1N4148DO35-7 1N4148DO35-7    DO35-7       DIODE                                                                    
+D5   1N4148DO35-7 1N4148DO35-7    DO35-7       DIODE                                                                    
+IC1  TL074P       TL074P          DIL14        OP AMP                                                                   
+IC2  TL074P       TL074P          DIL14        OP AMP                                                                   
+J1   INPUT        ACJM-MHDR       ACJM-MHDR                                                                             
+J2   BUFFERED_OUT 35RAPC2AV       35RAPC2AV                                                                             
+J3   ENVELOPE     35RAPC2AV       35RAPC2AV                                                                             
+J4   GATE         35RAPC2AV       35RAPC2AV                                                                             
+LDR1 LCD-0203_R   LCD-0203_R      LCD-0203-R   LCD-0203 - photo resistor (reversed position)                            
+LED1 GREEN        LED3MM          LED3MM       LED                                                                      
+LED2 RED          LED3MM          LED3MM       LED                                                                      
+Q1   2N3904       2N3904          TO92         NPN Transistor                                                           
+Q2   2N3904       2N3904          TO92         NPN Transistor                                                           
+Q3   2N3904       2N3904          TO92         NPN Transistor                                                           
+R1   10           PTC679          P679         PHILIPS PTC                                          unknown    unknown  
+R2   10           PTC679          P679         PHILIPS PTC                                          unknown    unknown  
+R3   470          R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R4   1M           R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R5   1M           R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R6   100          R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R7   4.7k         R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R8   2k           R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R9   1k           R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R10  2k           GFP063P         GF063P       TOCOS GF063P - SINGLE TURN CERMET TRIMMER                                
+R11  2k           R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R12  4.7k         R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R13  10k          R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R14  10k          R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R15  1k           R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R16  10k          GFP063P         GF063P       TOCOS GF063P - SINGLE TURN CERMET TRIMMER                                
+R17  100          R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R18  20           R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R19  B1k          RK097111        RK097111     ALPS RK097111 - 9mm horizontal rotary volume                             
+R20  A1k          RK097111        RK097111     ALPS RK097111 - 9mm horizontal rotary volume                             
+R21  100k         R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R22  100k         R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R23  10k          R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R24  100k         R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R25  47k          R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R26  A500k        RK097111        RK097111     ALPS RK097111 - 9mm horizontal rotary volume                             
+R27  4.7k         R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R28  100k         R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R29  100k         R-US_0204/7     0204/7       RESISTOR, American symbol                                                
+R30  500k         GFP063P         GF063P       TOCOS GF063P - SINGLE TURN CERMET TRIMMER                                
+SV1  PWR          ML16            ML16         HARTING                                              unknown    unknown  
